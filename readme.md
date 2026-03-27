@@ -58,6 +58,7 @@ Clone este repositório:
 Bash
 git clone https://github.com/DanielPupo/JS---exercicio-de-fixacao.git
 Abra a pasta do projeto no seu navegador ou utilize a extensão Live Server do VS Code abrindo o arquivo index.html.
+link do projeto: https://js-exercicio-de-fixacao.vercel.app/
 
 Fotos do Projeto:
 ![Captura de Tela do Painel Principal](./img/index.png)
