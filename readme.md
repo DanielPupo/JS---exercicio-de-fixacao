@@ -56,7 +56,7 @@ exercicios/
 Clone este repositório:
 
 Bash
-git clone https://github.com/seu-usuario/devsystems.git
+git clone https://github.com/DanielPupo/JS---exercicio-de-fixacao.git
 Abra a pasta do projeto no seu navegador ou utilize a extensão Live Server do VS Code abrindo o arquivo index.html.
 
 Fotos do Projeto:
